@@ -1,0 +1,204 @@
+{"frames": {
+
+"BeastAttack_BigBiteFX_0000.png":
+{
+	"frame": {"x":193,"y":811,"w":139,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":120,"w":139,"h":163},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0001.png":
+{
+	"frame": {"x":1,"y":811,"w":190,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":111,"w":190,"h":209},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0002.png":
+{
+	"frame": {"x":1137,"y":1,"w":234,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":68,"w":234,"h":291},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0003.png":
+{
+	"frame": {"x":716,"y":338,"w":258,"h":320},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":49,"w":258,"h":320},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0004.png":
+{
+	"frame": {"x":496,"y":1,"w":258,"h":335},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":29,"w":258,"h":335},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0005.png":
+{
+	"frame": {"x":1,"y":1,"w":246,"h":403},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":0,"w":246,"h":403},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0006.png":
+{
+	"frame": {"x":1,"y":406,"w":246,"h":403},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":0,"w":246,"h":403},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0007.png":
+{
+	"frame": {"x":249,"y":1,"w":245,"h":403},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":0,"w":245,"h":403},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0008.png":
+{
+	"frame": {"x":249,"y":406,"w":465,"h":397},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":3,"w":465,"h":397},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0009.png":
+{
+	"frame": {"x":976,"y":313,"w":379,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":89,"w":379,"h":302},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0010.png":
+{
+	"frame": {"x":756,"y":1,"w":379,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":89,"w":379,"h":310},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0011.png":
+{
+	"frame": {"x":1007,"y":617,"w":382,"h":288},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":109,"w":382,"h":288},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0012.png":
+{
+	"frame": {"x":882,"y":907,"w":330,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":188,"w":330,"h":102},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0013.png":
+{
+	"frame": {"x":882,"y":907,"w":330,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":188,"w":330,"h":102},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0014.png":
+{
+	"frame": {"x":882,"y":907,"w":330,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":188,"w":330,"h":102},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0015.png":
+{
+	"frame": {"x":508,"y":946,"w":296,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":207,"w":296,"h":57},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_BigBiteFX_0016.png":
+{
+	"frame": {"x":193,"y":976,"w":254,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":229,"w":254,"h":14},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_Spawn_0000.png":
+{
+	"frame": {"x":449,"y":948,"w":57,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":184,"w":57,"h":59},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_Spawn_0001.png":
+{
+	"frame": {"x":716,"y":660,"w":155,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":162,"w":155,"h":135},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_Spawn_0002.png":
+{
+	"frame": {"x":873,"y":660,"w":132,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":158,"w":132,"h":129},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_Spawn_0003.png":
+{
+	"frame": {"x":334,"y":805,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":159,"w":149,"h":141},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_Spawn_0004.png":
+{
+	"frame": {"x":616,"y":805,"w":136,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":157,"w":136,"h":136},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_Spawn_0005.png":
+{
+	"frame": {"x":485,"y":805,"w":129,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":151,"w":129,"h":139},
+	"sourceSize": {"w":490,"h":403}
+},
+"BeastAttack_Spawn_0006.png":
+{
+	"frame": {"x":754,"y":797,"w":126,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":154,"w":126,"h":130},
+	"sourceSize": {"w":490,"h":403}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "beast-attack.png",
+	"format": "RGBA8888",
+	"size": {"w":1390,"h":1021},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:14552489a1e27988d3c56653689e9a09:2c7846381a0b34fbd91909b5e0beb5e1:8dcbed96f443d92b7abf411bcb6fb949$"
+}
+}

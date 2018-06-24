@@ -1,0 +1,60 @@
+{"frames": {
+
+"laserhit1.png":
+{
+	"frame": {"x":445,"y":1,"w":208,"h":304},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":50,"w":208,"h":304},
+	"sourceSize": {"w":412,"h":412}
+},
+"laserhit2.png":
+{
+	"frame": {"x":225,"y":1,"w":218,"h":339},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":37,"w":218,"h":339},
+	"sourceSize": {"w":412,"h":412}
+},
+"laserhit3.png":
+{
+	"frame": {"x":1,"y":1,"w":222,"h":339},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":37,"w":222,"h":339},
+	"sourceSize": {"w":412,"h":412}
+},
+"laserpath1.png":
+{
+	"frame": {"x":1,"y":381,"w":398,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":47,"w":398,"h":16},
+	"sourceSize": {"w":412,"h":106}
+},
+"laserpath2.png":
+{
+	"frame": {"x":1,"y":361,"w":404,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":46,"w":404,"h":18},
+	"sourceSize": {"w":412,"h":106}
+},
+"laserpath3.png":
+{
+	"frame": {"x":1,"y":342,"w":407,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":45,"w":407,"h":17},
+	"sourceSize": {"w":412,"h":106}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "laser-sprite.png",
+	"format": "RGBA8888",
+	"size": {"w":654,"h":398},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:91c0d921cb0c1b46d027bc53e745f311:746cd062c35defb6ce48862d3d1a443c:79f446f20d6e30cf6f8cb698d04416b5$"
+}
+}

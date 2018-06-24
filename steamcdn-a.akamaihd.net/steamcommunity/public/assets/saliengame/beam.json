@@ -1,0 +1,36 @@
+{"frames": {
+
+"beam_fr1.png":
+{
+	"frame": {"x":1,"y":1,"w":256,"h":577},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":256,"h":577},
+	"sourceSize": {"w":260,"h":578}
+},
+"beam_fr2.png":
+{
+	"frame": {"x":1,"y":580,"w":256,"h":577},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":256,"h":577},
+	"sourceSize": {"w":260,"h":578}
+},
+"beam_fr3.png":
+{
+	"frame": {"x":1,"y":1159,"w":256,"h":577},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":256,"h":577},
+	"sourceSize": {"w":260,"h":578}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "beam.png",
+	"format": "RGBA8888",
+	"size": {"w":258,"h":1737},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b38af5587d58b5cbcc591786679e00ed:ce279dc25c7e1ac776ba46a5e469d7cd:110eeb245dacacfe394ae86342870647$"
+}
+}

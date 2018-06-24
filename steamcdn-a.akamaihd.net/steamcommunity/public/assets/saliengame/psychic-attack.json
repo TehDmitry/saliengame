@@ -1,0 +1,172 @@
+{"frames": {
+
+"PsychicAttack_Cube_0000.png":
+{
+	"frame": {"x":388,"y":610,"w":76,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":81,"w":76,"h":74},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0001.png":
+{
+	"frame": {"x":412,"y":486,"w":50,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":99,"w":50,"h":46},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0002.png":
+{
+	"frame": {"x":412,"y":486,"w":50,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":99,"w":50,"h":46},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0003.png":
+{
+	"frame": {"x":412,"y":486,"w":50,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":99,"w":50,"h":46},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0004.png":
+{
+	"frame": {"x":412,"y":432,"w":53,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":95,"w":53,"h":52},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0005.png":
+{
+	"frame": {"x":216,"y":432,"w":194,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":33,"w":194,"h":176},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0006.png":
+{
+	"frame": {"x":1,"y":227,"w":208,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":24,"w":208,"h":193},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0007.png":
+{
+	"frame": {"x":241,"y":221,"w":221,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":11,"w":221,"h":209},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0008.png":
+{
+	"frame": {"x":241,"y":1,"w":229,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":229,"h":218},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0009.png":
+{
+	"frame": {"x":1,"y":1,"w":238,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":238,"h":224},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0010.png":
+{
+	"frame": {"x":1,"y":774,"w":183,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":28,"w":183,"h":173},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0011.png":
+{
+	"frame": {"x":195,"y":610,"w":191,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":28,"w":191,"h":174},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0012.png":
+{
+	"frame": {"x":1,"y":422,"w":213,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":29,"w":213,"h":173},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0013.png":
+{
+	"frame": {"x":1,"y":597,"w":192,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":28,"w":192,"h":175},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0014.png":
+{
+	"frame": {"x":186,"y":786,"w":183,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":30,"w":183,"h":172},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0015.png":
+{
+	"frame": {"x":1,"y":949,"w":176,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":28,"w":176,"h":173},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0016.png":
+{
+	"frame": {"x":179,"y":960,"w":176,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":28,"w":176,"h":173},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0017.png":
+{
+	"frame": {"x":357,"y":960,"w":101,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":72,"w":101,"h":102},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0018.png":
+{
+	"frame": {"x":388,"y":686,"w":76,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":84,"w":76,"h":70},
+	"sourceSize": {"w":238,"h":224}
+},
+"PsychicAttack_Cube_0019.png":
+{
+	"frame": {"x":388,"y":758,"w":73,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":82,"w":73,"h":71},
+	"sourceSize": {"w":238,"h":224}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "psychic-attack.png",
+	"format": "RGBA8888",
+	"size": {"w":471,"h":1134},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3c092ce5c76d091625296935b3e90994:58e773fc8f6733d58f58773cdb77d43c:f5d6cca798ab860ff2cc0830f0e5b39a$"
+}
+}

@@ -1,0 +1,324 @@
+{"frames": {
+
+"Enemy_A_0007.png":
+{
+	"frame": {"x":1680,"y":1,"w":200,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":14,"w":200,"h":111},
+	"sourceSize": {"w":212,"h":126}
+},
+"Enemy_A_0008.png":
+{
+	"frame": {"x":1062,"y":1,"w":204,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":17,"w":204,"h":109},
+	"sourceSize": {"w":212,"h":126}
+},
+"Enemy_A_0009.png":
+{
+	"frame": {"x":852,"y":1,"w":208,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":18,"w":208,"h":108},
+	"sourceSize": {"w":212,"h":126}
+},
+"Enemy_A_0010.png":
+{
+	"frame": {"x":1,"y":1,"w":211,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":20,"w":211,"h":106},
+	"sourceSize": {"w":212,"h":126}
+},
+"Enemy_A_0011.png":
+{
+	"frame": {"x":214,"y":1,"w":212,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":20,"w":212,"h":106},
+	"sourceSize": {"w":212,"h":126}
+},
+"Enemy_A_0012.png":
+{
+	"frame": {"x":428,"y":1,"w":211,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":20,"w":211,"h":106},
+	"sourceSize": {"w":212,"h":126}
+},
+"Enemy_A_0013.png":
+{
+	"frame": {"x":641,"y":1,"w":209,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":19,"w":209,"h":107},
+	"sourceSize": {"w":212,"h":126}
+},
+"Enemy_A_0014.png":
+{
+	"frame": {"x":1268,"y":1,"w":206,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":17,"w":206,"h":109},
+	"sourceSize": {"w":212,"h":126}
+},
+"Enemy_A_0015.png":
+{
+	"frame": {"x":1476,"y":1,"w":202,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":16,"w":202,"h":110},
+	"sourceSize": {"w":212,"h":126}
+},
+"Enemy_B_0001.png":
+{
+	"frame": {"x":1160,"y":112,"w":190,"h":278},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":29,"w":190,"h":278},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0007.png":
+{
+	"frame": {"x":1,"y":386,"w":196,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":11,"w":196,"h":291},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0011.png":
+{
+	"frame": {"x":604,"y":390,"w":194,"h":292},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":194,"h":292},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0012.png":
+{
+	"frame": {"x":199,"y":387,"w":193,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":1,"w":193,"h":291},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0017.png":
+{
+	"frame": {"x":1352,"y":113,"w":191,"h":278},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":14,"w":191,"h":278},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0022.png":
+{
+	"frame": {"x":389,"y":109,"w":188,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":29,"w":188,"h":276},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0023.png":
+{
+	"frame": {"x":579,"y":110,"w":188,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":31,"w":188,"h":276},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0024.png":
+{
+	"frame": {"x":1,"y":109,"w":188,"h":275},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":32,"w":188,"h":275},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0025.png":
+{
+	"frame": {"x":769,"y":111,"w":188,"h":277},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":30,"w":188,"h":277},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0026.png":
+{
+	"frame": {"x":1545,"y":114,"w":188,"h":279},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":28,"w":188,"h":279},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0031.png":
+{
+	"frame": {"x":394,"y":388,"w":208,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":16,"w":208,"h":291},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0032.png":
+{
+	"frame": {"x":800,"y":391,"w":209,"h":293},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":14,"w":209,"h":293},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0033.png":
+{
+	"frame": {"x":1250,"y":393,"w":211,"h":295},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":12,"w":211,"h":295},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0034.png":
+{
+	"frame": {"x":1697,"y":395,"w":213,"h":297},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":10,"w":213,"h":297},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0038.png":
+{
+	"frame": {"x":1463,"y":395,"w":232,"h":296},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":11,"w":232,"h":296},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0039.png":
+{
+	"frame": {"x":1011,"y":392,"w":237,"h":293},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":237,"h":293},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0044.png":
+{
+	"frame": {"x":1735,"y":114,"w":203,"h":279},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":28,"w":203,"h":279},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0045.png":
+{
+	"frame": {"x":959,"y":112,"w":199,"h":277},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":30,"w":199,"h":277},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_B_0046.png":
+{
+	"frame": {"x":191,"y":109,"w":196,"h":275},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":32,"w":196,"h":275},
+	"sourceSize": {"w":242,"h":308}
+},
+"Enemy_C_0000.png":
+{
+	"frame": {"x":674,"y":686,"w":333,"h":387},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":15,"w":333,"h":387},
+	"sourceSize": {"w":352,"h":416}
+},
+"Enemy_C_0001.png":
+{
+	"frame": {"x":1348,"y":693,"w":330,"h":387},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":15,"w":330,"h":387},
+	"sourceSize": {"w":352,"h":416}
+},
+"Enemy_C_0007.png":
+{
+	"frame": {"x":1,"y":680,"w":331,"h":386},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":10,"w":331,"h":386},
+	"sourceSize": {"w":352,"h":416}
+},
+"Enemy_C_0008.png":
+{
+	"frame": {"x":1680,"y":694,"w":332,"h":388},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":8,"w":332,"h":388},
+	"sourceSize": {"w":352,"h":416}
+},
+"Enemy_C_0013.png":
+{
+	"frame": {"x":704,"y":1078,"w":338,"h":408},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":2,"w":338,"h":408},
+	"sourceSize": {"w":352,"h":416}
+},
+"Enemy_C_0014.png":
+{
+	"frame": {"x":1397,"y":1084,"w":342,"h":412},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":1,"w":342,"h":412},
+	"sourceSize": {"w":352,"h":416}
+},
+"Enemy_C_0019.png":
+{
+	"frame": {"x":1044,"y":1082,"w":351,"h":411},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":351,"h":411},
+	"sourceSize": {"w":352,"h":416}
+},
+"Enemy_C_0020.png":
+{
+	"frame": {"x":352,"y":1075,"w":350,"h":407},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":350,"h":407},
+	"sourceSize": {"w":352,"h":416}
+},
+"Enemy_C_0021.png":
+{
+	"frame": {"x":1,"y":1072,"w":349,"h":402},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":349,"h":402},
+	"sourceSize": {"w":352,"h":416}
+},
+"Enemy_C_0029.png":
+{
+	"frame": {"x":334,"y":684,"w":338,"h":386},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":11,"w":338,"h":386},
+	"sourceSize": {"w":352,"h":416}
+},
+"Enemy_C_0030.png":
+{
+	"frame": {"x":1009,"y":690,"w":337,"h":386},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":13,"w":337,"h":386},
+	"sourceSize": {"w":352,"h":416}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "enemy-spritesheet-0.png",
+	"format": "RGBA8888",
+	"size": {"w":2013,"h":1497},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a010fd6e4c80395700b0a1fbce6759b9:2f8ae4e0b98b37cfc521d0b037df40f4:ba461d4d7a78acc4b391cbff81505268$"
+}
+}

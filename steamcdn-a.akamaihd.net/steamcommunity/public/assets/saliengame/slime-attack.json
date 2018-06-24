@@ -1,0 +1,204 @@
+{"frames": {
+
+"SlimeAttack_Splat_0001.png":
+{
+	"frame": {"x":638,"y":1,"w":282,"h":320},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":32,"w":282,"h":320},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0002.png":
+{
+	"frame": {"x":1,"y":741,"w":310,"h":361},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":7,"w":310,"h":361},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0003.png":
+{
+	"frame": {"x":1,"y":1,"w":313,"h":373},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":3,"w":313,"h":373},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0004.png":
+{
+	"frame": {"x":1,"y":376,"w":320,"h":363},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":363},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0005.png":
+{
+	"frame": {"x":316,"y":1,"w":320,"h":366},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":366},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0006.png":
+{
+	"frame": {"x":323,"y":369,"w":259,"h":319},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":47,"w":259,"h":319},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0007.png":
+{
+	"frame": {"x":584,"y":438,"w":256,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":125,"w":256,"h":243},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0008.png":
+{
+	"frame": {"x":598,"y":913,"w":168,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":128,"w":168,"h":192},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0009.png":
+{
+	"frame": {"x":1,"y":1104,"w":175,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":133,"w":175,"h":182},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0010.png":
+{
+	"frame": {"x":178,"y":1104,"w":112,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":136,"w":112,"h":175},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0011.png":
+{
+	"frame": {"x":768,"y":913,"w":110,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":162,"w":110,"h":123},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0012.png":
+{
+	"frame": {"x":292,"y":1150,"w":110,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":162,"w":110,"h":123},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0013.png":
+{
+	"frame": {"x":404,"y":1150,"w":110,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":162,"w":110,"h":123},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0014.png":
+{
+	"frame": {"x":516,"y":1150,"w":110,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":162,"w":110,"h":123},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0015.png":
+{
+	"frame": {"x":628,"y":1107,"w":110,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":162,"w":110,"h":123},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0016.png":
+{
+	"frame": {"x":768,"y":1038,"w":110,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":162,"w":110,"h":123},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeAttack_Splat_0017.png":
+{
+	"frame": {"x":740,"y":1163,"w":110,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":162,"w":110,"h":123},
+	"sourceSize": {"w":320,"h":376}
+},
+"SlimeBall_Final_A_0000.png":
+{
+	"frame": {"x":638,"y":323,"w":283,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":18,"w":283,"h":113},
+	"sourceSize": {"w":450,"h":150}
+},
+"SlimeBall_Final_A_0001.png":
+{
+	"frame": {"x":323,"y":690,"w":283,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":18,"w":283,"h":113},
+	"sourceSize": {"w":450,"h":150}
+},
+"SlimeBall_Final_A_0002.png":
+{
+	"frame": {"x":313,"y":805,"w":283,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":18,"w":283,"h":113},
+	"sourceSize": {"w":450,"h":150}
+},
+"SlimeBall_Final_A_0003.png":
+{
+	"frame": {"x":313,"y":920,"w":283,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":18,"w":283,"h":113},
+	"sourceSize": {"w":450,"h":150}
+},
+"SlimeBall_Final_A_0004.png":
+{
+	"frame": {"x":313,"y":1035,"w":283,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":18,"w":283,"h":113},
+	"sourceSize": {"w":450,"h":150}
+},
+"SlimeBall_Final_A_0005.png":
+{
+	"frame": {"x":608,"y":683,"w":283,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":18,"w":283,"h":113},
+	"sourceSize": {"w":450,"h":150}
+},
+"SlimeBall_Final_A_0006.png":
+{
+	"frame": {"x":608,"y":798,"w":283,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":18,"w":283,"h":113},
+	"sourceSize": {"w":450,"h":150}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "slime-attack.png",
+	"format": "RGBA8888",
+	"size": {"w":922,"h":1287},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1cdc784c20d360263c50f20266e8bed8:8889110929075dfafd4bd1b08d7c3cc6:0a4463555ae0f69e7d4c84cd13b2468c$"
+}
+}

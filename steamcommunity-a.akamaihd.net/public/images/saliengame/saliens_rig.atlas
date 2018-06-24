@@ -1,0 +1,670 @@
+saliens_rig.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+costume/hat-base
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+costume/shirt-base
+  rotate: true
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+parts/arm-left-beast-cat
+  rotate: false
+  xy: 1520, 102
+  size: 131, 186
+  orig: 131, 186
+  offset: 0, 0
+  index: -1
+parts/arm-left-beast-chimp
+  rotate: false
+  xy: 1653, 102
+  size: 131, 186
+  orig: 131, 186
+  offset: 0, 0
+  index: -1
+parts/arm-left-beast-wings
+  rotate: false
+  xy: 1786, 136
+  size: 131, 186
+  orig: 131, 186
+  offset: 0, 0
+  index: -1
+parts/arm-left-psychic-skinny
+  rotate: false
+  xy: 1919, 136
+  size: 131, 186
+  orig: 131, 186
+  offset: 0, 0
+  index: -1
+parts/arm-left-psychic-strong
+  rotate: false
+  xy: 2052, 136
+  size: 131, 186
+  orig: 131, 186
+  offset: 0, 0
+  index: -1
+parts/arm-left-psychic-wispy
+  rotate: false
+  xy: 2185, 136
+  size: 131, 186
+  orig: 131, 186
+  offset: 0, 0
+  index: -1
+parts/arm-left-slime-drippy
+  rotate: false
+  xy: 2318, 136
+  size: 131, 186
+  orig: 131, 186
+  offset: 0, 0
+  index: -1
+parts/arm-left-slime-skinny
+  rotate: false
+  xy: 2451, 136
+  size: 131, 186
+  orig: 131, 186
+  offset: 0, 0
+  index: -1
+parts/arm-left-slime-tentacle
+  rotate: false
+  xy: 2584, 136
+  size: 131, 186
+  orig: 131, 186
+  offset: 0, 0
+  index: -1
+parts/arm-right-beast-cat
+  rotate: false
+  xy: 3987, 343
+  size: 90, 166
+  orig: 90, 166
+  offset: 0, 0
+  index: -1
+parts/arm-right-beast-chimp
+  rotate: false
+  xy: 2717, 156
+  size: 90, 166
+  orig: 90, 166
+  offset: 0, 0
+  index: -1
+parts/arm-right-beast-wings
+  rotate: false
+  xy: 2809, 156
+  size: 90, 166
+  orig: 90, 166
+  offset: 0, 0
+  index: -1
+parts/arm-right-psychic-skinny
+  rotate: false
+  xy: 2901, 156
+  size: 90, 166
+  orig: 90, 166
+  offset: 0, 0
+  index: -1
+parts/arm-right-psychic-strong
+  rotate: false
+  xy: 2993, 156
+  size: 90, 166
+  orig: 90, 166
+  offset: 0, 0
+  index: -1
+parts/arm-right-psychic-wispy
+  rotate: false
+  xy: 3085, 156
+  size: 90, 166
+  orig: 90, 166
+  offset: 0, 0
+  index: -1
+parts/arm-right-slime-drippy
+  rotate: false
+  xy: 3177, 156
+  size: 90, 166
+  orig: 90, 166
+  offset: 0, 0
+  index: -1
+parts/arm-right-slime-skinny
+  rotate: true
+  xy: 1520, 10
+  size: 90, 166
+  orig: 90, 166
+  offset: 0, 0
+  index: -1
+parts/arm-right-slime-tentacle
+  rotate: true
+  xy: 1786, 44
+  size: 90, 166
+  orig: 90, 166
+  offset: 0, 0
+  index: -1
+parts/body-beast
+  rotate: false
+  xy: 2, 203
+  size: 209, 306
+  orig: 209, 306
+  offset: 0, 0
+  index: -1
+parts/body-psychic
+  rotate: false
+  xy: 213, 203
+  size: 209, 306
+  orig: 209, 306
+  offset: 0, 0
+  index: -1
+parts/body-slime
+  rotate: false
+  xy: 424, 203
+  size: 209, 306
+  orig: 209, 306
+  offset: 0, 0
+  index: -1
+parts/eye-left-beast-cutest
+  rotate: false
+  xy: 1688, 16
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+parts/eye-left-beast-egg
+  rotate: false
+  xy: 3850, 259
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+parts/eye-left-beast-owl
+  rotate: false
+  xy: 3269, 136
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+parts/eye-left-beast-snake
+  rotate: false
+  xy: 3366, 157
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+parts/eye-left-psychic-one
+  rotate: false
+  xy: 3463, 157
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+parts/eye-left-slime-biggreen
+  rotate: false
+  xy: 3463, 157
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+parts/eye-left-psychic-scary
+  rotate: false
+  xy: 3560, 157
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+parts/eye-left-psychic-smile
+  rotate: false
+  xy: 3657, 157
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+parts/eye-left-slime-many
+  rotate: false
+  xy: 3754, 157
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+parts/eye-left-slime-snail
+  rotate: true
+  xy: 3851, 162
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+parts/eye-left-slime-squishy
+  rotate: false
+  xy: 3947, 257
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+parts/eye-middle-beast-cutest
+  rotate: false
+  xy: 3269, 222
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+parts/eye-middle-beast-owl
+  rotate: false
+  xy: 3269, 222
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+parts/eye-middle-beast-snake
+  rotate: false
+  xy: 3269, 222
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+parts/eye-middle-psychic-smile
+  rotate: false
+  xy: 3269, 222
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+parts/eye-middle-slime-snail
+  rotate: false
+  xy: 3269, 222
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+parts/eye-middle-beast-egg
+  rotate: false
+  xy: 3352, 243
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+parts/eye-middle-psychic-one
+  rotate: false
+  xy: 3435, 243
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+parts/eye-middle-psychic-scary
+  rotate: false
+  xy: 3518, 243
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+parts/eye-middle-slime-biggreen
+  rotate: false
+  xy: 3601, 243
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+parts/eye-middle-slime-many
+  rotate: false
+  xy: 3684, 243
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+parts/eye-middle-slime-squishy
+  rotate: false
+  xy: 3767, 243
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+parts/eye-right-beast-cutest
+  rotate: false
+  xy: 3937, 176
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+parts/eye-right-beast-egg
+  rotate: false
+  xy: 3254, 55
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+parts/eye-right-beast-owl
+  rotate: false
+  xy: 3337, 55
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+parts/eye-right-beast-snake
+  rotate: false
+  xy: 3420, 76
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+parts/eye-right-psychic-one
+  rotate: false
+  xy: 3503, 76
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+parts/eye-right-slime-biggreen
+  rotate: false
+  xy: 3503, 76
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+parts/eye-right-psychic-scary
+  rotate: false
+  xy: 3586, 76
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+parts/eye-right-psychic-smile
+  rotate: false
+  xy: 3669, 76
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+parts/eye-right-slime-many
+  rotate: false
+  xy: 3752, 76
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+parts/eye-right-slime-snail
+  rotate: false
+  xy: 2734, 8
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+parts/eye-right-slime-squishy
+  rotate: false
+  xy: 2817, 8
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+parts/leg-left-beast-beast
+  rotate: true
+  xy: 2, 16
+  size: 185, 226
+  orig: 185, 226
+  offset: 0, 0
+  index: -1
+parts/leg-left-beast-elephant
+  rotate: true
+  xy: 1695, 324
+  size: 185, 226
+  orig: 185, 226
+  offset: 0, 0
+  index: -1
+parts/leg-left-beast-hoof
+  rotate: true
+  xy: 230, 16
+  size: 185, 226
+  orig: 185, 226
+  offset: 0, 0
+  index: -1
+parts/leg-left-psychic-strong
+  rotate: true
+  xy: 1923, 324
+  size: 185, 226
+  orig: 185, 226
+  offset: 0, 0
+  index: -1
+parts/leg-left-psychic-taper
+  rotate: true
+  xy: 2151, 324
+  size: 185, 226
+  orig: 185, 226
+  offset: 0, 0
+  index: -1
+parts/leg-left-psychic-wispy
+  rotate: true
+  xy: 2379, 324
+  size: 185, 226
+  orig: 185, 226
+  offset: 0, 0
+  index: -1
+parts/leg-left-slime-frog
+  rotate: true
+  xy: 2607, 324
+  size: 185, 226
+  orig: 185, 226
+  offset: 0, 0
+  index: -1
+parts/leg-left-slime-manytentacles
+  rotate: true
+  xy: 2835, 324
+  size: 185, 226
+  orig: 185, 226
+  offset: 0, 0
+  index: -1
+parts/leg-left-slime-twotentacles
+  rotate: true
+  xy: 3063, 324
+  size: 185, 226
+  orig: 185, 226
+  offset: 0, 0
+  index: -1
+parts/leg-middle-beast-beast
+  rotate: false
+  xy: 635, 290
+  size: 263, 219
+  orig: 263, 219
+  offset: 0, 0
+  index: -1
+parts/leg-middle-beast-elephant
+  rotate: false
+  xy: 900, 290
+  size: 263, 219
+  orig: 263, 219
+  offset: 0, 0
+  index: -1
+parts/leg-middle-beast-hoof
+  rotate: false
+  xy: 900, 290
+  size: 263, 219
+  orig: 263, 219
+  offset: 0, 0
+  index: -1
+parts/leg-middle-psychic-strong
+  rotate: false
+  xy: 900, 290
+  size: 263, 219
+  orig: 263, 219
+  offset: 0, 0
+  index: -1
+parts/leg-middle-psychic-taper
+  rotate: false
+  xy: 900, 290
+  size: 263, 219
+  orig: 263, 219
+  offset: 0, 0
+  index: -1
+parts/leg-middle-slime-frog
+  rotate: false
+  xy: 900, 290
+  size: 263, 219
+  orig: 263, 219
+  offset: 0, 0
+  index: -1
+parts/leg-middle-slime-twotentacles
+  rotate: false
+  xy: 900, 290
+  size: 263, 219
+  orig: 263, 219
+  offset: 0, 0
+  index: -1
+parts/leg-middle-psychic-wispy
+  rotate: false
+  xy: 1165, 290
+  size: 263, 219
+  orig: 263, 219
+  offset: 0, 0
+  index: -1
+parts/leg-middle-slime-manytentacles
+  rotate: false
+  xy: 1430, 290
+  size: 263, 219
+  orig: 263, 219
+  offset: 0, 0
+  index: -1
+parts/leg-right-beast-beast
+  rotate: true
+  xy: 3291, 345
+  size: 164, 230
+  orig: 164, 230
+  offset: 0, 0
+  index: -1
+parts/leg-right-beast-elephant
+  rotate: true
+  xy: 3523, 345
+  size: 164, 230
+  orig: 164, 230
+  offset: 0, 0
+  index: -1
+parts/leg-right-beast-hoof
+  rotate: true
+  xy: 3755, 345
+  size: 164, 230
+  orig: 164, 230
+  offset: 0, 0
+  index: -1
+parts/leg-right-psychic-strong
+  rotate: true
+  xy: 458, 37
+  size: 164, 230
+  orig: 164, 230
+  offset: 0, 0
+  index: -1
+parts/leg-right-psychic-taper
+  rotate: false
+  xy: 690, 58
+  size: 164, 230
+  orig: 164, 230
+  offset: 0, 0
+  index: -1
+parts/leg-right-psychic-wispy
+  rotate: false
+  xy: 856, 58
+  size: 164, 230
+  orig: 164, 230
+  offset: 0, 0
+  index: -1
+parts/leg-right-slime-frog
+  rotate: false
+  xy: 1022, 58
+  size: 164, 230
+  orig: 164, 230
+  offset: 0, 0
+  index: -1
+parts/leg-right-slime-manytentacles
+  rotate: false
+  xy: 1188, 58
+  size: 164, 230
+  orig: 164, 230
+  offset: 0, 0
+  index: -1
+parts/leg-right-slime-twotentacles
+  rotate: false
+  xy: 1354, 58
+  size: 164, 230
+  orig: 164, 230
+  offset: 0, 0
+  index: -1
+parts/mouth-beast-catsnout
+  rotate: false
+  xy: 1954, 69
+  size: 128, 65
+  orig: 128, 65
+  offset: 0, 0
+  index: -1
+parts/mouth-beast-dogtongue
+  rotate: false
+  xy: 2084, 69
+  size: 128, 65
+  orig: 128, 65
+  offset: 0, 0
+  index: -1
+parts/mouth-beast-sharpest
+  rotate: false
+  xy: 2214, 69
+  size: 128, 65
+  orig: 128, 65
+  offset: 0, 0
+  index: -1
+parts/mouth-beast-smallfangs
+  rotate: false
+  xy: 2344, 69
+  size: 128, 65
+  orig: 128, 65
+  offset: 0, 0
+  index: -1
+parts/mouth-beast-smallsmile
+  rotate: false
+  xy: 2474, 69
+  size: 128, 65
+  orig: 128, 65
+  offset: 0, 0
+  index: -1
+parts/mouth-beast-snarl
+  rotate: false
+  xy: 2604, 69
+  size: 128, 65
+  orig: 128, 65
+  offset: 0, 0
+  index: -1
+parts/mouth-psychic-ooo
+  rotate: false
+  xy: 2734, 89
+  size: 128, 65
+  orig: 128, 65
+  offset: 0, 0
+  index: -1
+parts/mouth-psychic-open
+  rotate: false
+  xy: 2864, 89
+  size: 128, 65
+  orig: 128, 65
+  offset: 0, 0
+  index: -1
+parts/mouth-psychic-wavy
+  rotate: false
+  xy: 2994, 89
+  size: 128, 65
+  orig: 128, 65
+  offset: 0, 0
+  index: -1
+parts/mouth-slime-fishbigsmile
+  rotate: false
+  xy: 3124, 89
+  size: 128, 65
+  orig: 128, 65
+  offset: 0, 0
+  index: -1
+parts/mouth-slime-fishfrown
+  rotate: false
+  xy: 1954, 2
+  size: 128, 65
+  orig: 128, 65
+  offset: 0, 0
+  index: -1
+parts/mouth-slime-squid
+  rotate: false
+  xy: 2084, 2
+  size: 128, 65
+  orig: 128, 65
+  offset: 0, 0
+  index: -1
