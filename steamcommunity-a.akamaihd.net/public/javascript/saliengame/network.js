@@ -11,7 +11,7 @@ CServerInterface.prototype.Connect = function( callback )
 	var instance = this;
 
 	$J.ajax({
-		url: 'https://steamcommunity.com/saliengame/gettoken',
+		url: 'http://localhost:8080/saliengame/gettoken',
 		dataType: "json"
 	}).success(function(rgResult){
 		if( rgResult.success == 1)
