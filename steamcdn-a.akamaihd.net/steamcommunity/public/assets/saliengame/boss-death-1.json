@@ -1,0 +1,388 @@
+{"frames": {
+
+"Boss_Death_0001.png":
+{
+	"frame": {"x":869,"y":625,"w":215,"h":268},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":58,"w":215,"h":268},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0002.png":
+{
+	"frame": {"x":1,"y":1063,"w":241,"h":268},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":58,"w":241,"h":268},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0004.png":
+{
+	"frame": {"x":1,"y":619,"w":213,"h":269},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":57,"w":213,"h":269},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0005.png":
+{
+	"frame": {"x":597,"y":621,"w":213,"h":270},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":56,"w":213,"h":270},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0011.png":
+{
+	"frame": {"x":1400,"y":415,"w":209,"h":275},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":51,"w":209,"h":275},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0012.png":
+{
+	"frame": {"x":1677,"y":415,"w":209,"h":275},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":51,"w":209,"h":275},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0013.png":
+{
+	"frame": {"x":1,"y":409,"w":208,"h":276},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":50,"w":208,"h":276},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0014.png":
+{
+	"frame": {"x":279,"y":411,"w":208,"h":276},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":50,"w":208,"h":276},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0015.png":
+{
+	"frame": {"x":557,"y":411,"w":208,"h":277},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":49,"w":208,"h":277},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0016.png":
+{
+	"frame": {"x":836,"y":411,"w":208,"h":277},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":49,"w":208,"h":277},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0021.png":
+{
+	"frame": {"x":1,"y":201,"w":206,"h":279},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":47,"w":206,"h":279},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0022.png":
+{
+	"frame": {"x":282,"y":203,"w":206,"h":280},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":46,"w":206,"h":280},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0027.png":
+{
+	"frame": {"x":1155,"y":1,"w":204,"h":281},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":45,"w":204,"h":281},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0028.png":
+{
+	"frame": {"x":1438,"y":1,"w":204,"h":281},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":45,"w":204,"h":281},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0029.png":
+{
+	"frame": {"x":1721,"y":1,"w":204,"h":282},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":44,"w":204,"h":282},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0033.png":
+{
+	"frame": {"x":564,"y":203,"w":206,"h":282},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":44,"w":206,"h":282},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0034.png":
+{
+	"frame": {"x":848,"y":203,"w":206,"h":282},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":44,"w":206,"h":282},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0035.png":
+{
+	"frame": {"x":1132,"y":207,"w":206,"h":283},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":43,"w":206,"h":283},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0036.png":
+{
+	"frame": {"x":1417,"y":207,"w":206,"h":283},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":43,"w":206,"h":283},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0037.png":
+{
+	"frame": {"x":1702,"y":207,"w":206,"h":283},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":43,"w":206,"h":283},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0041.png":
+{
+	"frame": {"x":1115,"y":415,"w":208,"h":283},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":43,"w":208,"h":283},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0044.png":
+{
+	"frame": {"x":1139,"y":626,"w":215,"h":283},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":43,"w":215,"h":283},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0045.png":
+{
+	"frame": {"x":1752,"y":626,"w":221,"h":283},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":43,"w":221,"h":283},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0049.png":
+{
+	"frame": {"x":556,"y":1070,"w":243,"h":283},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":43,"w":243,"h":283},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0051.png":
+{
+	"frame": {"x":1,"y":1307,"w":269,"h":283},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":43,"w":269,"h":283},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0053.png":
+{
+	"frame": {"x":1685,"y":1077,"w":256,"h":283},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":43,"w":256,"h":283},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0054.png":
+{
+	"frame": {"x":271,"y":1063,"w":242,"h":283},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":43,"w":242,"h":283},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0055.png":
+{
+	"frame": {"x":841,"y":1071,"w":243,"h":283},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":43,"w":243,"h":283},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0057.png":
+{
+	"frame": {"x":1400,"y":1077,"w":253,"h":283},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":43,"w":253,"h":283},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0059.png":
+{
+	"frame": {"x":286,"y":1315,"w":269,"h":283},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":43,"w":269,"h":283},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0062.png":
+{
+	"frame": {"x":1126,"y":1072,"w":244,"h":272},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":41,"w":244,"h":272},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0063.png":
+{
+	"frame": {"x":571,"y":1316,"w":269,"h":284},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":29,"w":269,"h":284},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0064.png":
+{
+	"frame": {"x":857,"y":1318,"w":281,"h":296},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":17,"w":281,"h":296},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0065.png":
+{
+	"frame": {"x":1155,"y":1332,"w":286,"h":314},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":286,"h":314},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0068.png":
+{
+	"frame": {"x":272,"y":621,"w":212,"h":323},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":1,"w":212,"h":323},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0069.png":
+{
+	"frame": {"x":1424,"y":626,"w":216,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":0,"w":216,"h":326},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0073.png":
+{
+	"frame": {"x":261,"y":835,"w":226,"h":329},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":226,"h":329},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0074.png":
+{
+	"frame": {"x":592,"y":842,"w":226,"h":329},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":226,"h":329},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0075.png":
+{
+	"frame": {"x":923,"y":843,"w":226,"h":329},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":226,"h":329},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0076.png":
+{
+	"frame": {"x":1254,"y":844,"w":226,"h":327},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":2,"w":226,"h":327},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0077.png":
+{
+	"frame": {"x":1583,"y":849,"w":226,"h":325},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":4,"w":226,"h":325},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0081.png":
+{
+	"frame": {"x":1,"y":834,"w":226,"h":258},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":71,"w":226,"h":258},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0085.png":
+{
+	"frame": {"x":1,"y":1,"w":240,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":131,"w":240,"h":198},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0086.png":
+{
+	"frame": {"x":471,"y":1,"w":226,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":129,"w":226,"h":200},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0087.png":
+{
+	"frame": {"x":699,"y":1,"w":226,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":129,"w":226,"h":200},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0088.png":
+{
+	"frame": {"x":927,"y":1,"w":226,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":129,"w":226,"h":200},
+	"sourceSize": {"w":289,"h":329}
+},
+"Boss_Death_0089.png":
+{
+	"frame": {"x":243,"y":1,"w":226,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":131,"w":226,"h":198},
+	"sourceSize": {"w":289,"h":329}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "boss-death-1.png",
+	"format": "RGBA8888",
+	"size": {"w":2036,"h":1619},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f959a1378ec814325449f406f501a4b0:14aa877d2c3f9ce47ccf31134abc6cfa:6ef599629e75f90d22e66c3041ab3fa3$"
+}
+}

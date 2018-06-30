@@ -1,0 +1,84 @@
+{"frames": {
+
+"Boss_Laser_0000.png":
+{
+	"frame": {"x":1,"y":1,"w":1271,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":12,"w":1271,"h":74},
+	"sourceSize": {"w":1276,"h":86}
+},
+"Boss_Laser_0001.png":
+{
+	"frame": {"x":229,"y":1,"w":1271,"h":41},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":19,"w":1271,"h":41},
+	"sourceSize": {"w":1276,"h":86}
+},
+"Boss_Laser_0002.png":
+{
+	"frame": {"x":77,"y":1,"w":1271,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":1271,"h":74},
+	"sourceSize": {"w":1276,"h":86}
+},
+"Boss_Laser_0003.png":
+{
+	"frame": {"x":272,"y":1,"w":1271,"h":41},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":24,"w":1271,"h":41},
+	"sourceSize": {"w":1276,"h":86}
+},
+"Boss_Laser_0004.png":
+{
+	"frame": {"x":153,"y":1,"w":1271,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":12,"w":1271,"h":74},
+	"sourceSize": {"w":1276,"h":86}
+},
+"Boss_Laser_0005.png":
+{
+	"frame": {"x":315,"y":1,"w":1240,"h":57},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":11,"w":1240,"h":57},
+	"sourceSize": {"w":1276,"h":86}
+},
+"Boss_Laser_0006.png":
+{
+	"frame": {"x":374,"y":1,"w":1076,"h":36},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":25,"w":1076,"h":36},
+	"sourceSize": {"w":1276,"h":86}
+},
+"Boss_Laser_0007.png":
+{
+	"frame": {"x":412,"y":1,"w":518,"h":19},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":518,"h":19},
+	"sourceSize": {"w":1276,"h":86}
+},
+"Boss_Laser_0008.png":
+{
+	"frame": {"x":412,"y":521,"w":283,"h":14},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":37,"w":283,"h":14},
+	"sourceSize": {"w":1276,"h":86}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "boss_laser.png",
+	"format": "RGBA8888",
+	"size": {"w":432,"h":1273},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:45eef1c661819e896d3ebdff61e1e101:f44c9de36ab0de54ea8267da52b947ea:6d42aba8eba1f6b8ee7ba22b2fa3d6bd$"
+}
+}
