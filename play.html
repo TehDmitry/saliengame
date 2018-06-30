@@ -11,7 +11,25 @@
 <link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_global.css?v=XNLXbZ2A_51F" rel="stylesheet" type="text/css" >
 <link href="https://steamcommunity-a.akamaihd.net/public/css/globalv2.css?v=vbUK8qF9dcv4" rel="stylesheet" type="text/css" >
 <link href="https://steamcommunity-a.akamaihd.net/public/css/salien/salien.css?v=SNYU9aRoGYSM" rel="stylesheet" type="text/css" >
+			
+<script type="text/javascript">
+    var gSalienData = {};
+    gSalienData.body_type = 0;
+    gSalienData.mouth = 2;
+    gSalienData.eyes = 8;
+    gSalienData.arms = 5;
+    gSalienData.legs = 0;
+    gSalienData.hat_itemid = 8224449804;
+	gSalienData.hat_image = 'https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/282900/8a009c062b05531d80494d3a9ee4ca394b0cc262.png';
+    gSalienData.shirt_itemid = 8157589337;
+    gSalienData.shirt_image = 'https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/268910/6b62d06d6cb5d69f2c00522d2084a9ee74d62792.png';
 
+	gPlayerName = "gPlayerName";
+	gAccountID = 9310;
+	gLanguage = 'english';
+	k_DefaultAvatar = '';
+	const k_FontType = 'Motiva-Sans';
+</script>
 
 <script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC" ></script>
 <script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=i7xLan9Uhe4h&amp;l=english" ></script>
@@ -22,6 +40,7 @@
 <script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/saliengame/pixi/pixi-sound.js?v=.x9Q08vlRNyLh" ></script>
 <script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/saliengame/pixi/pixi-spine.js?v=.7OsC6yYlmcju" ></script>
 <script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/saliengame/pixi/pixi-filters.js?v=.0zUgeJIQqNXu" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/minigame/towerattack/easing.js?v=.GhWTSxcRvbIc" ></script>
 <script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/saliengame/network.js?v=ktu7gGAyXBfO&amp;l=english" ></script>
 <script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/saliengame/uihelpers.js?v=.1M9HN3GmS9xF" ></script>
 <script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/saliengame/enemy.js?v=.sR9LMQGsOJQg" ></script>
@@ -30,6 +49,7 @@
 <script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/saliengame/battleselect.js?v=q9bsf45rTOMt&amp;l=english" ></script>
 <script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/saliengame/salien.js?v=myhTgbnOH0Qm&amp;l=english" ></script>
 <script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/saliengame/game.js?v=qCVmyMk-O83K&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/saliengame/boss.js?v=jAOyiFLZnzOT&amp;l=english" ></script>
 </script>
 
 	
@@ -46,24 +66,7 @@
 
 		<div class="responsive_page_template_content">
 
-			
-<script type="text/javascript">
-    var gSalienData = {};
-    gSalienData.body_type = 0;
-    gSalienData.mouth = 2;
-    gSalienData.eyes = 8;
-    gSalienData.arms = 5;
-    gSalienData.legs = 0;
-    gSalienData.hat_itemid = 8224449804;
-	gSalienData.hat_image = 'https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/282900/8a009c062b05531d80494d3a9ee4ca394b0cc262.png';
-    gSalienData.shirt_itemid = 8157589337;
-    gSalienData.shirt_image = 'https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/268910/6b62d06d6cb5d69f2c00522d2084a9ee74d62792.png';
 
-	gPlayerName = "gPlayerName";
-	gLanguage = 'english';
-	k_DefaultAvatar = '';
-	const k_FontType = 'Motiva-Sans';
-</script>
 
 <div id="salien_game_placeholder" style="-webkit-user-select: none;user-select: none;" >
 	<div id="salien_loading_throbber">
